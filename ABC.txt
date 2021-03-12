@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 Hello from Master
+=======
 Hello from Bug-Fix
+>>>>>>> Bug-Fix
